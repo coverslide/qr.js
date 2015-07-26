@@ -24,6 +24,10 @@
     "canvas",
     "image"
   ],
+  "browser": {
+    "canvas": false,
+    "fs": false
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/neocotic/qr.js.git"
